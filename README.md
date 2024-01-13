@@ -1,3 +1,3 @@
 # GSMs_book
 
-This repository saves the GSMs book related source codes. It will be released once the book is published. 
+This repository saves the [GSMs book](https://maozirui.github.io/publications/GSM-book-2024) related source codes. 
