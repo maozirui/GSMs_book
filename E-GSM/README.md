@@ -11,6 +11,3 @@ The provided MATLAB code simulates the Poiseuille flow with E-GSM.
 <p align="center">
   <img src="https://maozirui.github.io/images/GSM_book_EGSM_1.png" alt="Photo" style="width: 785px;"/> 
 </p>
-<p align="center">
-  <img src="https://maozirui.github.io/images/GSM_book_EGSM_2.png" alt="Photo" style="width: 785px;"/> 
-</p>
