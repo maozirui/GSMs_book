@@ -9,5 +9,5 @@ The source code has a structure as below:
 
 The provided MATLAB code simulates the Couette flow with L-GSM.
 <p align="center">
-  <img src="https://maozirui.github.io/images/GSM_book_LGSM.png" alt="Photo" style="width: 785px;"/> 
+  <img src="https://maozirui.github.io/images/GSM_book_LGSM_1.png" alt="Photo" style="width: 785px;"/> 
 </p>
