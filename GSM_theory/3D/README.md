@@ -8,8 +8,7 @@ The source code has a structure as below:
 </p>
 
 
-The provided MATLAB code approximate gradient of polynomial function F = x^2 /2 + y^3 /3 + z^4 /4 + 10*(x + y 
-+ z) with 3D GSM.
+The provided MATLAB code approximate gradient of polynomial function F = x^2 /2 + y^3 /3 + z^4 /4 + 10*(x + y + z) with 3D GSM.
 
 3D gradient smoothing domain constructing algorithm is developed to generate the necessary background mesh for 3D GSM. 
 
