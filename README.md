@@ -27,4 +27,4 @@ MATLAB code of Lagrangian Gradient Smoothing Method applied to solving Navier-St
 ### Waster splash L-GSM
 FORTRAN source code for simulating water splash with L-GSM (SPH solver is involved as well).
 
-Please follow the [GSMs book](https://maozirui.github.io/publications/GSM-book-2024) for The detailed description about how to use the source code.
+Please follow the [GSMs book](https://maozirui.github.io/publications/GSM-book-2024) for detailed description about how to use the source code.
