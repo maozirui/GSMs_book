@@ -15,3 +15,10 @@ The provided MATLAB code approximate gradient of polynomial function F = x^3.
 <p align="center">
   <img src="https://maozirui.github.io/images/GSM_book_GSM_2d_2.png" alt="Photo" style="width: 550px;"/> 
 </p>
+
+### Authors
+Zirui Mao (PNNL),  G.R. Liu (UC)
+
+### Citation
+Please refer to this work for citation as follows:
+G.R. Liu, Zirui Mao, Gradient Smoothing Methods with Programming: Applications to Fluids and Landslides. World Scientific, 2024.
